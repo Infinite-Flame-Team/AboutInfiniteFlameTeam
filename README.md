@@ -4,7 +4,7 @@
 
 目前加入Infinite Flame Team的人{
 
-DeepSeek AI(开发, 写代码), Hei_wan_Feng(开发, 写代码, 调试, 管理资源(src/main/resources, README.md, 其他), 其他), Ean游戏(美术, 管理资源(src/main/resources, README.md, 其他), 测试), dhjs0000(美学(~~!=~~≠美术), 管理资源(src/main/resources, README.md, commit, 其他), 测试, 写部分代码)
+DeepSeek AI(开发, 写代码), Hei_wan_Feng(开发, 写代码, 调试, 管理资源(README.md, 其他), 其他), Ean游戏(美术, 管理资源(README.md, 其他), 测试), dhjs0000(美学(~~!=~~≠美术), 管理资源(README.md, commit, 其他), 测试, 写部分代码), Kimi Ai(开发, 写部分代码(杀手锏))
 
 }
 
